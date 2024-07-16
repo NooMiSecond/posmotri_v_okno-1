@@ -41,7 +41,7 @@ button {
   cursor: pointer;
 }
 
-/* Стили для страницы */
+/* Стили для страницы  */
 .page {
   display: flex;
   flex-direction: column;
