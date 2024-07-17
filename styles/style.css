@@ -237,10 +237,14 @@ button {
   position: absolute;
 }
 
+/* Добавление базового стиля */
+
 .content__card-link {
   display: block;
   outline: none;
 }
+
+/* Добавление обводки */
 
 .content__card-link:focus-visible {
   outline: 1px solid var(--main-color);
